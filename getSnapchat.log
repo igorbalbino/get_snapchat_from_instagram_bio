@@ -1,0 +1,11 @@
+2021-07-28 08:54:43,786 - mylogger - INFO - unsupported operand type(s) for +: 'Profile' and 'str'
+2021-07-28 17:31:50,186 - mylogger - INFO - unsupported operand type(s) for +: 'Profile' and 'str'
+2021-07-28 17:52:52,547 - mylogger - INFO - 'charmap' codec can't encode character '\U0001f4cd' in position 24: character maps to <undefined>
+2021-07-28 19:03:34,419 - mylogger - INFO - 'charmap' codec can't encode character '\U0001f4cd' in position 0: character maps to <undefined>
+2021-07-28 19:40:50,908 - mylogger - INFO - 'charmap' codec can't encode character '\U0001f4cd' in position 0: character maps to <undefined>
+2021-07-28 20:12:14,403 - mylogger - INFO - JSON Query to yuanyyyyue/feed/: 429 Too Many Requests
+2021-07-28 20:12:14,403 - mylogger - INFO - JSON Query to yuanyyyyue/feed/: 429 Too Many Requests
+2021-07-28 20:57:50,802 - mylogger - INFO - JSON Query to godsledpotato/feed/: 429 Too Many Requests
+2021-07-28 21:57:33,727 - mylogger - INFO - JSON Query to godsledpotato/feed/: 429 Too Many Requests
+2021-07-28 22:29:51,275 - mylogger - INFO - JSON Query to oigordev/feed/: 429 Too Many Requests
+2021-07-28 22:29:51,275 - mylogger - INFO - JSON Query to oigordev/feed/: 429 Too Many Requests

@@ -1,0 +1,2 @@
+python bot_get_snapchat_from_insta.py
+pause
